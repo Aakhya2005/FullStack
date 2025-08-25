@@ -1,5 +1,5 @@
 h1{
-  color: rgb(76, 24, 199);
+  color: rgb(76, 24, 199,0.5);
 }
 p:hover{
   background-color: blueviolet;

@@ -1,0 +1,14 @@
+h2{
+  color: blue;
+  text-align: center;
+  text-decoration:underline ;
+}
+.main{
+  text-align: center;
+}
+#sub:hover{
+     background-color: blue;
+}
+.leg{
+  color: blue;
+}
