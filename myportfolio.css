@@ -3,6 +3,9 @@ h2{
   color: blue;
 }
 p{
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roma', serif;
-  font-size: larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+}
+.head{
+  background-color: rgba(116, 212, 217,0.5);
 }
