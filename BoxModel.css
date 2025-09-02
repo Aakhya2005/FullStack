@@ -55,6 +55,7 @@ header {
   padding: 15px;
   background-color: azure;
   text-align: center;
+  border-radius: 15px;
 }
 
 img{
@@ -62,4 +63,7 @@ img{
    width: 250px;
    border-radius: 15px;
    border: 10px solid ;
+}
+.sec{
+  display: inline;
 }
